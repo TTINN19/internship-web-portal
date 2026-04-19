@@ -25,7 +25,7 @@ A web-based system for requesting electronic bank statements (E-Statements). The
 - GitHub Desktop / GitLab
 - IntelliJ IDEA / Visual Studio Code
 - JasperReports
-- Postman :contentReference
+- Postman
 
 ## Summary
 
